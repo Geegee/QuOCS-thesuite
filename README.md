@@ -24,7 +24,7 @@ python -m pip install -e git+https://github.com/Quantum-OCS/QuOCS-pyside2interfa
 ```
 Now you can launch the suite in the main folder
 ```bash
-python quocs-thesuite.py
+python suite.py
 ```
 
 ### Examples
